@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is a learning file.
 1
+=======
+This is a learning file.
+change 3
+>>>>>>> origin/master
